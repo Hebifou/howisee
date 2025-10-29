@@ -57,12 +57,12 @@ This repository contains:
 - sample visual results and comparison images  
 - bibliographic and theoretical documentation
 
-The **full simulation engine** (including PSF modeling, Zernike aberrations, and GPU convolution) 
+The full simulation engine (including PSF modeling, Zernike aberrations, and GPU convolution) 
 is part of a private research release and is not included here.
 
 For collaborations, academic use, or licensing requests, please contact:
 
-**mail@anifou.com**
+mail@anifou.com
 
 ---
 
@@ -75,4 +75,4 @@ For collaborations, academic use, or licensing requests, please contact:
 
 ---
 
-© 2025 [**Anifou**](https://www.anifou.com) — All rights reserved.  
+© 2025 [Anifou](https://www.anifou.com) — All rights reserved.  
