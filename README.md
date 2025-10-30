@@ -1,10 +1,10 @@
-# −3.5 · How I See
+−3.5 · How I See
 
 Project page: [anifou.com/project/minus-three-point-five](https://www.anifou.com/project/minus-three-point-five)
 
 ---
 
-## Overview
+Overview
 
 −3.5 (How I See) is a research-based visual simulation exploring how mild to moderate myopia (–3.5 diopters) alters human perception.  
 
@@ -14,7 +14,7 @@ Rather than imitating lens defocus in camera space, the system approximates reti
 
 ---
 
-## Concept
+Concept
 
 The work is situated at the intersection of computational optics, visual neuroscience, and media art.  
 
@@ -26,7 +26,7 @@ It aims to translate an optical condition (myopia) into a reproducible visual lo
 
 ---
 
-## Methodological Summary
+Summary
 
 The simulation is based on a reproducible optical workflow:
 
@@ -40,7 +40,7 @@ All parameters are normalized for perceptual plausibility rather than diagnostic
 
 ---
 
-## Ethical & Scientific Position
+Ethical & Scientific Position
 
 The project is not a medical diagnostic tool. It visualizes the experience of optical defocus, not its clinical measurement.
 
@@ -50,7 +50,7 @@ The project is not a medical diagnostic tool. It visualizes the experience of op
 
 ---
 
-## Repository Scope
+Repository Scope
 
 This repository contains:
 - a technical and conceptual summary of the project  
@@ -66,7 +66,7 @@ mail@anifou.com
 
 ---
 
-## References
+References
 
 - Thibos, L. N., Applegate, R. A. et al. (2002). *Standards for reporting optical aberrations of the eye.* J. Refractive Surgery, 18(5).  
 - Goodman, J. W. (2005). *Introduction to Fourier Optics.* Roberts & Co.  
